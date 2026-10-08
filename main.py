@@ -1,2 +1,6 @@
 print ("sdjasjlk")
 print ("sdjasjlk")
+print ("6767")
+print ("676767")
+print ("676767")
+print ("676767")
